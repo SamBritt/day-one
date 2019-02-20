@@ -1,0 +1,10 @@
+body{
+    background: white;
+}
+#intro {
+    background: url(images/concrete-paint-painted-1903409.jpg);
+    display: cover;
+    position: relative;
+    width: 100%;
+    background-size: contain;
+}
